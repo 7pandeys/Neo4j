@@ -19,3 +19,6 @@ build-backend = "poetry.core.masonry.api"
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.4.1"
 
+[tool.pytest.ini_options]
+pythonpath = ["neo4j"]
+
