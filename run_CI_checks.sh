@@ -5,7 +5,7 @@ set -e
 echo "\n---- CODE STYLE CHECK ----\n"
 
 echo "Running ruff over the source code\n"
-poetry run ruff check src
+poetry run ruff check neo4j
 
 echo "Running ruff over the tests\n"
 poetry run ruff check tests --ignore D103
