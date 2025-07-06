@@ -15,13 +15,13 @@ This repo tracks my journey, learnings, and experiment logs along the way. Let�
 
 ## 🗓️ Timeline: July 6–10
 
-| Day | Focus                                    | Outcome |
-|-----|------------------------------------------|---------|
-| ✅ **Day 1** (Jul 6) | Intro to Graphs + Cypher Basics   | `MATCH`, `RETURN`, `WHERE`, install Neo4j |
-| ✅ **Day 2** (Jul 7) | CREATE, MERGE, Graph Modeling     | Entity modeling, sample data creation |
-| ✅ **Day 3** (Jul 8) | Advanced Queries + Indexes        | `EXPLAIN`, `PROFILE`, constraints |
-| ✅ **Day 4** (Jul 9) | Practice Test + Mini Project      | Build toy graph (AI tools, Travel planner etc.) |
-| ✅ **Day 5** (Jul 10) | Certification Exam 🎓               | Get certified + grab that T-shirt 💪 |
+| Day | Focus                                    | Outcome | Wiki                                                                         |
+|-----|------------------------------------------|---------|------------------------------------------------------------------------------|
+| ✅ **Day 1** (Jul 6) | Intro to Graphs + Cypher Basics   | `MATCH`, `RETURN`, `WHERE`, install Neo4j | [Getting Started](https://github.com/7pandeys/neo4j/wiki/01_Getting_Started) |
+| ✅ **Day 2** (Jul 7) | CREATE, MERGE, Graph Modeling     | Entity modeling, sample data creation | [Implement Graphs](https://github.com/7pandeys/neo4j/wiki/02_Implement)      |
+| ✅ **Day 3** (Jul 8) | Advanced Queries + Indexes        | `EXPLAIN`, `PROFILE`, constraints | [Advance](https://github.com/7pandeys/neo4j/wiki/03_Advance)                 |
+| ✅ **Day 4** (Jul 9) | Practice Test + Mini Project      | Build toy graph (AI tools, Travel planner etc.) | [Mini Project](https://github.com/7pandeys/neo4j/wiki/04_Mini_Project)       |
+| ✅ **Day 5** (Jul 10) | Certification Exam 🎓               | Get certified + grab that T-shirt 💪 | [Certificate](https://github.com/7pandeys/neo4j/wiki/05_Certificate)         |
 
 ---
 
