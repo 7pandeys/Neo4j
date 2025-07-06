@@ -18,6 +18,8 @@ jobs:
           cache: 'poetry'
       - name: Install dependencies
         run: poetry install
+      - name: 🧾 Make script executable
+        run: chmod +x run_CI_checks.sh
       - name: Run CI
         run: ./run_CI_checks.sh
 
