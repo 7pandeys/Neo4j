@@ -1,5 +1,13 @@
 # 🚀 Neo4j Certification Sprint (July 6–10, 2025)
 
+[![Neo4j](https://img.shields.io/badge/Neo4j-Graph%20DB-008cc1?logo=neo4j&logoColor=white)](https://neo4j.com/)
+[![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Pytest](https://img.shields.io/badge/Tests-Pytest-0a0a0a?logo=pytest&logoColor=white)](https://docs.pytest.org/)
+[![Ruff](https://img.shields.io/badge/Linter-Ruff-purple?logo=ruff&logoColor=white)](https://docs.astral.sh/ruff/)
+[![Shell Script](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+
+> ⚡ Certification sprint for Neo4j with a dev stack powered by Python, Pytest, Ruff, and CI-ready shell tooling.
+
 Welcome to my **5-day mission** to become a certified Neo4j Professional 🧠 and earn that legendary **Neo4j T-shirt** 👕🎯  
 This repo tracks my journey, learnings, and experiment logs along the way. Let’s graph it up!
 
