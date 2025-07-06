@@ -1,4 +1,4 @@
-from Neo4j.Neo4j.dummy import output
+from Neo4j.neo4j.dummy import output
 
 
 def test_dummy():
