@@ -1,0 +1,17 @@
+[project]
+name = "neo4j"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Sandy",email = "7pandeys@gmail.com"}
+]
+readme = "README.md"
+requires-python = "3.9.19"
+dependencies = [
+    "ruff (>=0.12.2,<0.13.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
