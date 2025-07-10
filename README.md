@@ -1,5 +1,3 @@
-# 🚀 Neo4j Certification Sprint (July 6–10, 2025)
-
 [![Neo4j](https://img.shields.io/badge/Neo4j-Graph%20DB-008cc1?logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Pytest](https://img.shields.io/badge/Tests-Pytest-0a0a0a?logo=pytest&logoColor=white)](https://docs.pytest.org/)
@@ -49,4 +47,5 @@ This repo tracks my journey, learnings, and experiment logs along the way. Let�
 
 ---
 
-## 💬 Reflections &
+## 💬 Reflections & Reference
+https://graphacademy.neo4j.com/c/0f33d29c-66b4-4084-8c9d-9ac605a67193/ - **CERTIFIED**
